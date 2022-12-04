@@ -1,9 +1,9 @@
 # k8s
-192.168.31.70 master
-192.168.31.120 node1
-192.168.31.228 node2
+192.168.6.172 master
+192.168.6.211 node1
+192.168.6.216 node2
 
 # k8s my-ingress-controller
-192.168.31.70 db-mongo-0.middleware.yeyh.com
+192.168.6.172 db-mongo-0.middleware.yeyh.com
 
 192.168.31.213 game
