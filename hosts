@@ -3,4 +3,7 @@
 192.168.31.120 node1
 192.168.31.228 node2
 
+# k8s my-ingress-controller
+192.168.31.70 db-mongo-0.middleware.yeyh.com
+
 192.168.31.213 game
