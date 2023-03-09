@@ -6,6 +6,6 @@
 # k8s my-ingress-controller
 192.168.6.172 db-mongo-0.middleware.yeyh.com
 
-192.168.31.213 game
+192.168.6.193 game
 
 192.168.6.149 centos7
