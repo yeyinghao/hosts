@@ -5,6 +5,8 @@
 192.168.6.216 node2
 
 192.168.6.144 centos
+192.168.6.146 server
+192.168.6.224 game
 
 # k8s my-ingress-controller
 192.168.6.148 db-mongo-0.middleware.yeyh.com
